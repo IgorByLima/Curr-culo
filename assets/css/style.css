@@ -1,0 +1,69 @@
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 200px;   
+    border: 4px solid rgb(137, 207, 128);
+}
+
+body{
+    background-color: #2C2C2E;
+    
+}
+
+h1{
+    color: #30D158;
+}
+
+h3{
+    color: rgb(255, 255, 255);
+}
+
+.frase-de-efeito h4 {
+  color: #F2F2F7; 
+  font-weight: bold; 
+  font-style: italic; 
+}
+
+.card-sobre {
+  width: 16rem;
+  padding: 1rem;
+  margin: auto;
+  min-height: 12rem;
+  display: flex;
+  border: 4px solid  #30D158; ;
+  background-color: #3A3A3C;
+  color: #ffffff;
+  
+  
+  
+}
+
+
+
+.card-contato {
+  width: 16rem;
+  padding: 1.5rem;
+  margin: auto;
+  min-height: 12rem;
+  display: flex;
+    border: 4px solid  #30D158; ;
+    background-color: #3A3A3C;
+    color: #ffffff;
+}
+
+
+
+.card-altura-fixa {
+  min-height: 100%;
+}
+
+.icone-grande {
+  width: 40px;
+  height: 40px;
+  margin: 0 8px;
+}
+
+
+.card-sobre .text-body-secondary,
+.card-contato .text-body-secondary {
+  color: #ffffff !important;
+}
